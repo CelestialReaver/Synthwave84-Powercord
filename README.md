@@ -19,6 +19,14 @@
 
 ![](https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/MarqueeStatus.gif)
 
+<p align="left"><b>Clean and Animated Spotify Controls </b>:</p>
+
+![](https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/SpotifyControls.gif)
+
+<p align="left"><b>Animated Emoji and Sticker Matching </b>:</p>
+
+![](https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/InteractiveMatching.gif)
+
 ## Screenshots
 ![](https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/synthwaveCoverGif.gif)
 
@@ -33,7 +41,7 @@
 ![](https://github.com/CelestialReaver/BetterDiscord/blob/main/themes/Synthwave84/assets/Synthwave-Preview5.png)
 
 ## Misc
-* If you need support, please ask in the _#misc-support_ channel on the <a href="https://discord.gg/powercord">Powercord</a> Discord server.
+* If you need support, please ask in the _#misc-support_ channel on the <a href="https://discord.gg/mckWVKBGa8">Replugged</a> Discord server.
 * If you like this theme, please consider recommending it to others. It will help other people discover this theme.
 
 ## Credits
